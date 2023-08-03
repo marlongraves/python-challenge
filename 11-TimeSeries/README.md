@@ -6,7 +6,7 @@
 
 [Mercado Libre](http://investor.mercadolibre.com/investor-relations) is the most popular e-commerce site in Latin America with  with over 200 million users. As a part of this assignment an analysis the company's financial and user data was performed 
 
-As a result of the work on the assignemnt a CoLab notebook was created (link: https://colab.research.google.com/drive/1eAA7kXFp4QlETKHNREfQQhdjF-MT-aw_#scrollTo=3n7lLn8E46oy).  It contains the data preparation, analysis and visualizations for all the time series data and includes the following:
+As a result of the work on the assignemnt a CoLab notebook was created (link: https://colab.research.google.com/drive/1HmlhKftT6VmQFUczWgAHaui9sJdFbHmx#scrollTo=XQu_XlK_fnuB).  It contains the data preparation, analysis and visualizations for all the time series data and includes the following:
 
 - Visual depictions of seasonality (as measured by Google Search traffic) that are of interest to the company.
 
